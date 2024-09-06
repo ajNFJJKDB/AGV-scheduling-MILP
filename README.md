@@ -1,5 +1,7 @@
 # AGV-scheduling-MILP
 
+main file - updated8.py
+
 ## Project Description
 This project aims to optimize the scheduling and management of Automated Guided Vehicles (AGVs) in a modern industrial setting. By implementing a Mixed-Integer Linear Programming (MILP) model, the system ensures efficient task allocation, workload balancing, and charging management for AGVs. The primary focus is to minimize idle times, reduce environmental impact, and maximize charge utilization while ensuring all tasks are completed within specified time windows.
 
@@ -91,4 +93,4 @@ The MILP model successfully balanced task loads, managed AGV charging, and minim
 - Expand the system to manage larger fleets and more complex task scenarios.
 
 ## Authors
-- Bharathan Gopal (W23040570)
+- Balaji Gopal (3122213002015)
